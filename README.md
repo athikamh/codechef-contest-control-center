@@ -5,6 +5,11 @@ A modern **Contest Control Center** built using **Next.js**, **React**, **TypeSc
 This project simulates an administrative dashboard used to monitor and manage competitive programming contests. It provides participant management, live submission monitoring, contest analytics, dynamic leaderboard management, and recent contest activities through a responsive and interactive interface.
 
 ---
+## Project Overview
+
+The CodeChef Contest Control Center is a frontend web application that simulates an administrative dashboard for managing programming contests. It provides tools to monitor participants, submissions, leaderboards, contest analytics, and recent activities through a clean and responsive user interface built using modern React development practices.
+
+---
 
 ## Repository
 
@@ -247,18 +252,19 @@ When the leaderboard is frozen, a snapshot of the rankings is preserved until it
 - Charts use sample contest statistics.
 - Rejudge simulates score recalculation.
 - Freeze Leaderboard preserves rankings until manually released.
+- The application functions entirely using local mock data without backend integration.
 
 ---
 
 # Screenshots
 
-## Dashboard
+## Dashboard Overview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ---
 
-## Submission Trend
+## Submission Trend Chart
 
 ![Submission Trend](screenshots/submission-trend.png)
 
@@ -266,7 +272,7 @@ When the leaderboard is frozen, a snapshot of the rankings is preserved until it
 
 ## Contest Analytics
 
-![Contest Analytics](screenshots/dashboard-analytics.png)
+![Contest Analytics](screenshots/contest-analytics.png)
 
 ---
 
@@ -276,27 +282,45 @@ When the leaderboard is frozen, a snapshot of the rankings is preserved until it
 
 ---
 
-## Participants
+## Participants Page
 
-![Participants](screenshots/participants.png)
-
----
-
-## Submissions
-
-![Submissions](screenshots/submissions.png)
+![Participants](screenshots/participants-page.png)
 
 ---
 
-## Leaderboard
+## Submissions - Filters
 
-![Leaderboard](screenshots/leaderboard.png)
+![Submission Filters](screenshots/submissions-filters.png)
 
 ---
 
-## Activity
+## Live Submissions Table
 
-![Activity](screenshots/activity.png)
+![Submission Table](screenshots/submissions-table.png)
+
+---
+
+## Leaderboard Overview
+
+![Leaderboard Overview](screenshots/leaderboard-overview.png)
+
+---
+
+## Leaderboard Rankings
+
+![Leaderboard Rankings](screenshots/leaderboard-table.png)
+
+---
+
+## Activity Page
+
+![Activity Page](screenshots/activity-page.png)
+
+---
+
+## Recent Activity
+
+![Recent Activity](screenshots/recent-activity.png)
 
 ---
 
