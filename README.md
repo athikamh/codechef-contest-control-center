@@ -21,9 +21,8 @@ https://github.com/athikamh/codechef-contest-control-center
 
 ## Live Demo
 
-https://your-vercel-url.vercel.app
+https://codechef-contest-control-center-cd0pcl7hw-athika.vercel.app
 
-*(Replace with your deployed Vercel URL before submission.)*
 
 ---
 
@@ -361,9 +360,9 @@ npm run lint
 
 Live Application
 
-https://your-vercel-url.vercel.app
+https://codechef-contest-control-center-cd0pcl7hw-athika.vercel.app
 
-*(Replace with your deployed Vercel URL.)*
+
 
 ---
 
